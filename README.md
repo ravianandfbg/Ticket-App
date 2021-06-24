@@ -1,6 +1,6 @@
 # Ticket-App
 
-
+In this project i have made like a To Do web app, which is actually seems a ticket and i have also used chrome database from which the ticket will be saved under the inbuilt chrome database.
 
 
 # Demo :-
