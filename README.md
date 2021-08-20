@@ -1,6 +1,11 @@
 # Ticket-App
 
-In this project i have made like a To Do web app, which is actually seems a ticket and i have also used chrome database from which the ticket will be saved under the inbuilt chrome database.
+* App to add, delete and filter tickets according to color-based priority
+* Lock ticket, mark as done or Search by unique ticket ID
+* Save user data in local storage
+
+# Live App:-
+https://ticketmanagement-app.netlify.app/
 
 
 # Demo :-
